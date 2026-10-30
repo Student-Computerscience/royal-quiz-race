@@ -1,3 +1,6 @@
+## Play the game
+[Open Royal Quiz Race](https://royal-quiz-race.onrender.com)
+
 ﻿# Royal Quiz Race
 
 A small, no-login quiz game for friends. It uses a Node.js server and plain browser files, so there are no packages to install.
